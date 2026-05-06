@@ -14,10 +14,5 @@ public class ExitToMenu : MonoBehaviour
             Debug.Log("Controller button pressed — returning to menu");
             SceneManager.LoadScene(mainMenuScene);
         }
-        if (OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
-        {
-            Debug.Log("Controller button pressed — returning to menu");
-            SceneManager.LoadScene(mainMenuScene);
-        }
     }
 }

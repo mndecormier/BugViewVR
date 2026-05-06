@@ -610,7 +610,7 @@ MonoBehaviour:
   colorMapEditorBrightness: 0
   colorMapEditorPosterize: 0
   colorMapEditorSaturation: 1
-  _colorLutSourceTexture: {fileID: 2800000, guid: 2b9b41ab30d086e4abd967ff6ea11b63, type: 3}
+  _colorLutSourceTexture: {fileID: 2800000, guid: 109dcd94ba676cc44b05ac98bee5d2ce, type: 3}
   _colorLutTargetTexture: {fileID: 0}
   _lutWeight: 1
   _flipLutY: 1
